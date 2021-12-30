@@ -1,5 +1,7 @@
 # Welcome to the Source Code Review Resources of 2022!
 
+#This is a highly curated and maintained learning resource for source code review in bug bounty which includes blogs, YT Videos, and Books.
+
 1. [JavaScript Code Review Guide for Bug Bounty Hunters](https://medium.com/techiepedia/javascript-code-review-guide-for-bug-bounty-hunters-c95a8aa7037a)- MikeChan | Blog
 2. [Code-Review from Bug Bounty Bootcamp](https://attacker-codeninja.github.io/2021-08-24-code-review-notes-from-bug-bounty-bootcamp/)- Vickie Li | Blog
 3. [Code Review Video by OWASP develop](https://youtu.be/fb-t3WWHsMQ)- OWASP Develop | YT Video
