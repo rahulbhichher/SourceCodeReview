@@ -14,3 +14,5 @@
 12. [Source Code Review 101](https://medium.com/@Paul_io)- Paul | Blog Series
 13. [AppSec Source code review](https://youtu.be/Kepd1HsoE8o)- OWASP AppSec Day | YT Video
 14. [Security for Developers](https://youtu.be/qjrkV4RjgIU)- FreeCodeCamp | YT Video
+
+Credits: [Rahul Bhichher](https://twitter.com/rbhichher)
